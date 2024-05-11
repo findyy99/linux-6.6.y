@@ -2204,7 +2204,7 @@
 		#cooling-cells = <2>;
 		dynamic-power-coefficient = <2640>;
 		power-domains = <&power RK3399_PD_GPU>;
-		status = "disabled";
+		status = "okay";
 	};
 
 	pinctrl: pinctrl {
