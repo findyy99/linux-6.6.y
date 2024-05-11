@@ -9,7 +9,7 @@
 
 / {
 	model = "R08-V3.3";
-	compatible = "rockchip,rk3399-evb", "rockchip,rk3399";
+	compatible = "unknown,rk3399-r08", "rockchip,rk3399";
 
 	aliases {
 		ethernet0 = &gmac;
